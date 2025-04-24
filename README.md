@@ -1,2 +1,2 @@
-# -gitalk-comments
+# gitalk-comments
 gitalk储存库
